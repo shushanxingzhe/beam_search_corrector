@@ -1,0 +1,6 @@
+numpy~=1.21.5
+kenlm~=0.0.0
+pygtrie~=2.4.2
+cn2an~=0.5.16
+transformers~=4.17.0
+pypinyin~=0.46.0
